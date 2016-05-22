@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f72b9fe7e249445f2c098bf7395103c0db687117">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dd9501f8c8ed5fc05e0b9689f2182837a09e5ad1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_3d2101bf241fa6646c70c782fe7d6422b515c240\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b4b29b97f27c18fe88919091747c7dbc69ba589a">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9808b119135654eb88476a6f93a657edc8dccc48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_0cd9c0ed228fe2de8b47ad8c0466fffec5ac2150\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_0ec72693ceb1944a62709356877ab45c6d3aa123\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_78dc98939143d5a0ab785d2629381f2264598714\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_4314d5c387d123a62f2e97084dd070725c126438\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_a3c60df3ce880027b8eb468c012bc25ca7fbdcd4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\SungMin\Desktop\Mooc1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_8bf3a9d06dabafe6b4c81664a8b8bfeb76a679be\classes.dex" />
+    </item>
+
+</items>
